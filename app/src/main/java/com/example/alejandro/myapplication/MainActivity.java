@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //esto es un comentario
+        //esto es otro comentario hecho por otra persona
+        
     }
 }
